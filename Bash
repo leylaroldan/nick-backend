@@ -1,1 +1,1 @@
-git clone https://github.com/TU_USUARIO/nick-backend.git
+git clone https://github.com/leylaroldan/nick-backend.git
